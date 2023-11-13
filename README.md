@@ -1,7 +1,7 @@
 # Incident Report  
 
 This repository is a skill showcase for the cybersecurity activity of reporting incidents.  
-The prompt and the log data for this showcase were taken from the [Google Cybersecurity Professional Certificate][1]
+The prompt and the data log for this showcase were taken from the [Google Cybersecurity Professional Certificate][1]
 lab's activity. However, the incident report was developed and written by the author of this repository.  
 
 ### Prompt  
