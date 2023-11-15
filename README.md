@@ -15,4 +15,4 @@ this report can also be viewed but under the name [Traffic log][log].
 
 [1]:<https://www.coursera.org/professional-certificates/google-cybersecurity>
 [report]:<https://github.com/ItaloHugoMDS/Incident_Report/blob/main/Security%20incident%20report.pdf>
-[log]:<https://github.com/ItaloHugoMDS/Incident_Report/blob/main/Traffic%20log.pdf>
+[log]: https://github.com/ItaloHugoMDS/Incident_Report/blob/main/Traffic%20log.pdf "Data log - Prompt 1"
